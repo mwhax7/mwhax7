@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I’m @mwhax7
+👀 I’m interested in computers and mods.
+🌱 I’m currently learning React & I know HTML & CSS.
+📫 Discord EchoNest Community
 
 <!--
 **mwhax7/mwhax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
